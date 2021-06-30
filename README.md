@@ -2,7 +2,7 @@
 [Email](dyao11@jh.edu)/ [GitHub](https://github.com/hereagain-Y/) 
 
 ### 👩‍💻Research Experience
-**Graduate Research AssistantII**       @Hong Kong University School of Public Health _(Feb 2021-Present)_    
+**Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
 Department of epidemiology and biostatistics.    
 * Responsible for collecting, cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
 * Explore contemporaneous correlations in antibiotic exposure and AMR and ARGs between different ecological sectors.  
@@ -20,14 +20,14 @@ High-throughput data mining
 * Technologies used: R, Python, Linux.    
 
 ### 👩‍🎓Education 
-Johns Hopkins University Bloomberg School of Public Health        
+**Johns Hopkins University Bloomberg School of Public Health**       
 MHS in Epidemiology                _(Aug 2021- May 2023)_   
-University of Florida   
+**University of Florida**   
 Exchange student in Bioinformatics    _(Aug 2019- May 2020)_    
 * GPA: 3.9/4.0       
 * Related courses: Advanced Bioinformatics, Python for biology, SAS: Data analysis and statistical computing, R for Comparative Genomics.  
 
-Huazhong Agricultural University     
+**Huazhong Agricultural University**     
 Bachelor  Horticultural Sciences      _(Sep 2016- Jun 2020)_      
 * GPA: 3.6/4.0   
 * Honors: Syngenta Scholarship (2019), Academic Excellence Award(1%), Outstanding Undergraduate Scholarship.   
