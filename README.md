@@ -19,19 +19,20 @@ High-throughput data mining
 
 ### 👩‍🎓Education 
 Johns Hopkins University Bloomberg School of Public Health        
-MHS in Epidemiology _(Aug 2021- May 2023)_   
+MHS in Epidemiology                _(Aug 2021- May 2023)_   
 University of Florida   
-Exchange student in Bioinformatics _(Aug 2019- May 2020)_    
+Exchange student in Bioinformatics    _(Aug 2019- May 2020)_    
 * GPA: 3.9/4.0       
-* Related courses: Advanced Bioinformatics, R language, Python, SAS statistical computing, Comparative Genomics.     
+* Related courses: Advanced Bioinformatics, R language, Python, SAS statistical computing, Comparative Genomics.  
+
 Huazhong Agricultural University     
-Bachelor  Horticultural Sciences     
+Bachelor  Horticultural Sciences      _(Sep 2016- Jun 2020)_      
 * GPA: 3.6/4.0   
 * Honors: Syngenta Scholarship (2019), Academic Excellence Award(1%), Outstanding Undergraduate Scholarship.   
 * Related courses: Linear algebra, Probability theory, Plant Genomics, C ++.   
 
 
-##🖨 Publications    
+### 🖨 Publications    
 *  Jiebai Zhou, Yancheng Zhao,**Danwei Yao**.[Impact of chronic obstructive pulmonary disease on immune checkpoint inhibitor efficacy in advanced lung cancer and the potential prognostic factors](https://tlcr.amegroups.com/article/view/51988).  
 * Jie Liu, Zilong Liu, Weipeng Jiang, Jian Wang, **Danwei Yao**, Yuanlin Song and Ling Ye. [Clinical predictors of COVID-19 disease progression and death: Analysis of 214 hospitalised patients from Wuhan, China](https://onlinelibrary.wiley.com/doi/full/10.1111/crj.13296).   
 
