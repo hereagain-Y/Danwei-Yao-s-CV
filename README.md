@@ -25,7 +25,7 @@ MHS in Epidemiology                _(Aug 2021- May 2023)_
 University of Florida   
 Exchange student in Bioinformatics    _(Aug 2019- May 2020)_    
 * GPA: 3.9/4.0       
-* Related courses: Advanced Bioinformatics, R language, Python, SAS statistical computing, Comparative Genomics.  
+* Related courses: Advanced Bioinformatics, Python for biology, SAS: Data analysis and statistical computing, R for Comparative Genomics.  
 
 Huazhong Agricultural University     
 Bachelor  Horticultural Sciences      _(Sep 2016- Jun 2020)_      
@@ -37,6 +37,10 @@ Bachelor  Horticultural Sciences      _(Sep 2016- Jun 2020)_
 ### 🖨 Publications    
 *  Jiebai Zhou, Yancheng Zhao,**Danwei Yao**.[Impact of chronic obstructive pulmonary disease on immune checkpoint inhibitor efficacy in advanced lung cancer and the potential prognostic factors](https://tlcr.amegroups.com/article/view/51988).  
 * Jie Liu, Zilong Liu, Weipeng Jiang, Jian Wang, **Danwei Yao**, Yuanlin Song and Ling Ye. [Clinical predictors of COVID-19 disease progression and death: Analysis of 214 hospitalised patients from Wuhan, China](https://onlinelibrary.wiley.com/doi/full/10.1111/crj.13296).  
+
+### 🎠Skills   
+* Proficient in R.
+* Capable in Python, Linux and SAS.   
 
 ### 📒Languages   
 Chinese: native
