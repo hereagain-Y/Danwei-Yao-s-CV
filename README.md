@@ -6,12 +6,14 @@
 Department of epidemiology and biostatistics.    
 * Responsible for collecting, cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
 * Explore contemporaneous correlations in antibiotic exposure and AMR and ARGs between different ecological sectors.  
-* Technologies used: R, Linux, Python.    
-**Data Analyst**                       @Fudan University Zhongshan Hospital _(July 2020- Dec 2021)_    
+* Technologies used: R, Linux, Python.     
+   
+**Data Analyst**          @Fudan University Zhongshan Hospital _(July 2020- Dec 2021)_    
 * Detected the prognostic factors of Covid-19 progression and in-hospital death, later constructed a prediction model on patients' outcome, revised the paper.  
 * Evaluated the impact of COPD on immune checkpoint inhibitor efficacy in patients with advanced lung cancer, this paper can be accessed [here](https://tlcr.amegroups.com/article/view/51988).  
 * Technologies used: R, SAS.  
-** Undergraduate thesis project**      @Huazhong Agricultural University              
+
+**Undergraduate thesis project**      @Huazhong Agricultural University              
 High-throughput data mining   
 * Completed RNA-seq analysis of sweet orange transcritome, focused on uncovering genetic mechanisms in sweet orange's peel color through the utilization of bioinformatics tools.    
 * Performed a cluster analysis for 25334 genes, and carried out the subsequent metabolic pathways differentially expressed Enrichment Analysis.     
@@ -34,5 +36,10 @@ Bachelor  Horticultural Sciences      _(Sep 2016- Jun 2020)_
 
 ### 🖨 Publications    
 *  Jiebai Zhou, Yancheng Zhao,**Danwei Yao**.[Impact of chronic obstructive pulmonary disease on immune checkpoint inhibitor efficacy in advanced lung cancer and the potential prognostic factors](https://tlcr.amegroups.com/article/view/51988).  
-* Jie Liu, Zilong Liu, Weipeng Jiang, Jian Wang, **Danwei Yao**, Yuanlin Song and Ling Ye. [Clinical predictors of COVID-19 disease progression and death: Analysis of 214 hospitalised patients from Wuhan, China](https://onlinelibrary.wiley.com/doi/full/10.1111/crj.13296).   
+* Jie Liu, Zilong Liu, Weipeng Jiang, Jian Wang, **Danwei Yao**, Yuanlin Song and Ling Ye. [Clinical predictors of COVID-19 disease progression and death: Analysis of 214 hospitalised patients from Wuhan, China](https://onlinelibrary.wiley.com/doi/full/10.1111/crj.13296).  
+
+### 📒Languages   
+Chinese: native
+English: Fluent
+
 
