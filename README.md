@@ -8,18 +8,18 @@
 Department of epidemiology and biostatistics.    
 * Responsible for collecting, cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
 * Explore contemporaneous correlations in antibiotic exposure and AMR and ARGs between different ecological sectors.  
-* Technologies used: R, Linux, Python.     
+* _Technologies used:_ R, Linux, Python.     
    
 **Data Analyst**          @Fudan University Zhongshan Hospital _(July 2020- Dec 2021)_    
 * Detected the prognostic factors of Covid-19 progression and in-hospital death, later constructed a prediction model on patients' outcome, revised the paper.  
 * Evaluated the impact of COPD on immune checkpoint inhibitor efficacy in patients with advanced lung cancer, this paper can be accessed [here](https://tlcr.amegroups.com/article/view/51988).  
-* Technologies used: R, SAS.  
+* **_Technologies used:_** R, SAS.  
 
 **Undergraduate thesis project**      @Huazhong Agricultural University              
 High-throughput data mining   
 * Completed RNA-seq analysis of sweet orange transcritome, focused on uncovering genetic mechanisms in sweet orange's peel color through the utilization of bioinformatics tools.    
 * Performed a cluster analysis for 25334 genes, and carried out the subsequent metabolic pathways differentially expressed Enrichment Analysis.     
-* Technologies used: R, Python, Linux.    
+* **_Technologies used:_** R, Python, Linux.    
 
 ## 👩‍🎓Education 
 **Johns Hopkins University Bloomberg School of Public Health**       
