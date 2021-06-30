@@ -8,7 +8,7 @@
 Department of epidemiology and biostatistics.    
 * Responsible for collecting, cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
 * Explore contemporaneous correlations in antibiotic exposure and AMR and ARGs between different ecological sectors.  
-* _Technologies used:_ R, Linux, Python.     
+* **_Technologies used:_** R, Linux, Python.     
    
 **Data Analyst**          @Fudan University Zhongshan Hospital _(July 2020- Dec 2021)_    
 * Detected the prognostic factors of Covid-19 progression and in-hospital death, later constructed a prediction model on patients' outcome, revised the paper.  
