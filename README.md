@@ -13,14 +13,14 @@ Work as a data analyst in the AMR(antimicrobial resistance) project:
 * Technologies used: R, SAS.
 
 ### 👩‍🎓Education 
-Johns Hopkins University Bloomberg School of Public Health     
-MHS in Epidemiology _(Aug 2021- May 2023)_ 
-University of Florida
+Johns Hopkins University Bloomberg School of Public Health        
+MHS in Epidemiology _(Aug 2021- May 2023)_   
+University of Florida   
 Exchange student in Bioinformatics _(Aug 2019- May 2020)_    
 * GPA: 3.9/4.0       
 * Related courses: Advanced Bioinformatics, R language, Python, SAS statistical computing, Comparative Genomics.   
 Huazhong Agricultural University   
-Bachelor  Horticultural Sciences   
+Bachelor  Horticultural Sciences     
 * GPA: 3.6/4.0   
 * Honors: Syngenta Scholarship (2019), Academic Excellence Award(1%), Outstanding Undergraduate Scholarship.   
 * Related courses: Linear algebra, Probability theory, Plant Genomics, C ++.   
