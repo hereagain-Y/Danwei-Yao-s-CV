@@ -1,5 +1,5 @@
 ## Danwei Yao
-[Email](dyao11@jh.edu)/ [GitHub](https://github.com/hereagain-Y/) 
+[Email](mailto:dyao11@jh.edu)/ [GitHub](https://github.com/hereagain-Y/) / [Linkedin](https://www.linkedin.com/in/danwei-yao-1450501a5/)
 
 ### 👩‍💻Research Experience
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
