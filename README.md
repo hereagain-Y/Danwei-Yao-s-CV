@@ -1,19 +1,9 @@
-## Danwei Yao
-<style type="text/css">
+# Danwei Yao
 
-body, td {
-   font-size: 14px;
-}
-code.r{
-  font-size: 12px;
-}
-pre {
-  font-size: 12px
-}
-</style>
 [Email](mailto:dyao11@jh.edu)/ [GitHub](https://github.com/hereagain-Y/) / [Linkedin](https://www.linkedin.com/in/danwei-yao-1450501a5/)
 
-### 👩‍💻Research Experience
+## 👩‍💻Research Experience    
+
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
 Department of epidemiology and biostatistics.    
 * Responsible for collecting, cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
@@ -33,7 +23,8 @@ High-throughput data mining
 
 ### 👩‍🎓Education 
 **Johns Hopkins University Bloomberg School of Public Health**       
-MHS in Epidemiology                _(Aug 2021- May 2023)_   
+MHS in Epidemiology                _(Aug 2021- May 2023)_        
+
 **University of Florida**   
 Exchange student in Bioinformatics    _(Aug 2019- May 2020)_    
 * GPA: 3.9/4.0       
