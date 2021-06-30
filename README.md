@@ -1,4 +1,16 @@
 ## Danwei Yao
+<style type="text/css">
+
+body, td {
+   font-size: 14px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+</style>
 [Email](mailto:dyao11@jh.edu)/ [GitHub](https://github.com/hereagain-Y/) / [Linkedin](https://www.linkedin.com/in/danwei-yao-1450501a5/)
 
 ### 👩‍💻Research Experience
