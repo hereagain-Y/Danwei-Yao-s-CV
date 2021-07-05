@@ -6,12 +6,12 @@
 
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
 Department of epidemiology and biostatistics.    
-* Responsible for cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
+* Responsible for cleaning and conceptualizing large database. A piece of work can [see](https://github.com/hereagain-Y/) here.    
 * Explore the resistance pattern among different sources of samples, analyze the inter-connection base on a One Health perspective. Used generalised linear mixed effects models(GLMM) with poisson distribution to test whether antibiogram length different between different groups.   
 * **_Technologies used:_** R, Linux, Python.     
    
 **Data Analyst**          @Fudan University Zhongshan Hospital _(July 2020- Dec 2021)_    
-* Detected the prognostic factors of Covid-19 progression and in-hospital death, later constructed a prediction model on patients' outcome, revised the paper.  
+* Detected the prognostic factors of Covid-19 progression and in-hospital death, later constructed a prediction nomogram on patients' outcome, and revised the paper.  
 * Evaluated the impact of COPD on immune checkpoint inhibitor efficacy in patients with advanced lung cancer, this paper can be accessed [here](https://tlcr.amegroups.com/article/view/51988).  
 * **_Technologies used:_** R, SAS.  
 
