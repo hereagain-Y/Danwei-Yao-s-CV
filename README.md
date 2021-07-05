@@ -6,8 +6,8 @@
 
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
 Department of epidemiology and biostatistics.    
-* Responsible for collecting, cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
-* Explore contemporaneous correlations in antibiotic exposure and AMR and ARGs between different ecological sectors.  
+* Responsible for cleaning and conceptualizing large database. [View the project on Github](https://github.com/hereagain-Y/).    
+* Explore the resistance pattern among different sources of samples, analyze the inter-connection base on a One Health perspective. Used generalised linear mixed effects models(GLMM) with poisson distribution to test whether antibiogram length different between different groups.   
 * **_Technologies used:_** R, Linux, Python.     
    
 **Data Analyst**          @Fudan University Zhongshan Hospital _(July 2020- Dec 2021)_    
