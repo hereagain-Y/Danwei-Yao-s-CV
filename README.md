@@ -6,7 +6,7 @@
 
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
 Department of epidemiology and biostatistics.    
-* Responsible for cleaning and conceptualizing large database. A piece of work can [see](https://github.com/hereagain-Y/) here.    
+* Responsible for cleaning and conceptualizing large database. A piece of work can [see](https://github.com/hereagain-Y/AMR_project) here.    
 * Explore the resistance pattern among different sources of samples, analyze the inter-connection base on a One Health perspective. Used generalised linear mixed effects models(GLMM) with poisson distribution to test whether antibiogram length different between different groups.   
 * **_Technologies used:_** R, Linux, Python.     
    
@@ -38,7 +38,7 @@ Bachelor  Horticultural Sciences      _(Sep 2016- Jun 2020)_
 
 
 ## 🖨 Publications    
-*  Jiebai Zhou, Yancheng Zhao,**Danwei Yao**. [Impact of chronic obstructive pulmonary disease on immune checkpoint inhibitor efficacy in advanced lung cancer and the potential prognostic factors](https://tlcr.amegroups.com/article/view/51988).  
+*  Jiebai Zhou, Yancheng Zhao,**Danwei Yao**. [Impact of chronic obstructive pulmonary disease on immune checkpoint inhibitor efficacy in advanced lung cancer and the potential prognostic factors](https://tlcr.amegroups.com/article/view/51988/html).  
 * Jie Liu, Zilong Liu, Weipeng Jiang, Jian Wang, **Danwei Yao**, Yuanlin Song and Ling Ye. [Clinical predictors of COVID-19 disease progression and death: Analysis of 214 hospitalised patients from Wuhan, China](https://onlinelibrary.wiley.com/doi/full/10.1111/crj.13296).  
 
 ## 🎠Skills   
