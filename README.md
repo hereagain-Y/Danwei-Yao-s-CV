@@ -7,17 +7,17 @@
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
 Department of epidemiology and biostatistics.    
 * Responsible for cleaning and conceptualizing large database. A piece of work can [see](https://github.com/hereagain-Y/AMR_project) here.    
-* Explore the resistance pattern among different sources of samples, analyze the inter-connection base on a One Health perspective. Used generalised linear mixed effects models(GLMM) with poisson distribution to test whether antibiogram length different between different groups.   
+* Explore the resistance pattern among different sources of samples, analyze the inter-connection base on a One Health perspective. Used generalised linear mixed effects models(GLMM) with poisson distribution to study patterns of AMR in Escherichia coli isolates and determine the diet related risk factors for sharing the antimicrobial resistance between human and environment.  
 * **_Technologies used:_** R, Linux, Python.     
    
 **Data Analyst**          @Fudan University Zhongshan Hospital _(July 2020- Dec 2021)_    
 * Detected the prognostic factors of Covid-19 progression and in-hospital death, later constructed a prediction nomogram on patients' outcome, and revised the paper.  
-* Evaluated the impact of COPD on immune checkpoint inhibitor efficacy in patients with advanced lung cancer, this paper can be accessed [here](https://tlcr.amegroups.com/article/view/51988).  
+* Evaluated the impact of COPD on immune checkpoint inhibitor efficacy in patients with advanced lung cancert through survival analysis, this paper can be accessed [here](https://tlcr.amegroups.com/article/view/51988/html).  
 * **_Technologies used:_** R, SAS.  
 
 **Undergraduate thesis project**      @Huazhong Agricultural University              
 High-throughput data mining   
-* Completed RNA-seq analysis of sweet orange transcritome, focused on uncovering genetic mechanisms in sweet orange's peel color through the utilization of bioinformatics tools.    
+* Completed RNA-seq analysis of sweet orange transcritome, focused on uncovering genetic mechanisms in sweet orange's peel color and discovering pigment related genes through the utilization of bioinformatics tools.    
 * Performed a cluster analysis for 25334 genes, and carried out the subsequent metabolic pathways differentially expressed Enrichment Analysis.     
 * **_Technologies used:_** R, Python, Linux.    
 
