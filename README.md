@@ -31,7 +31,8 @@ High-throughput data mining
 
 ## 👩‍🎓Education 
 **Johns Hopkins University Bloomberg School of Public Health**       
-MHS in Epidemiology                _(Aug 2021- May 2023)_        
+MHS in Epidemiology                _(Aug 2021- May 2023)_   
+* Honors: Masters Tuition Scholarship Award
 
 **University of Florida**   
 Exchange student in Bioinformatics    _(Aug 2019- May 2020)_    
