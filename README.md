@@ -2,7 +2,10 @@
 
 [Email](mailto:dyao11@jh.edu)/ [GitHub](https://github.com/hereagain-Y/) / [Linkedin](https://www.linkedin.com/in/danwei-yao-1450501a5/)
 
-## 👩‍💻Research Experience    
+## 👩‍💻Research Experience  
+
+**Student data analyst (part-time)**  @Johns Hopkins Bloomberg School of Public Health _(Oct 2021-Present)_  
+Key Populations Investment Fund (KPIF) at the Center of Public Health and Human Rights.  
 
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
 Department of epidemiology and biostatistics.    
@@ -33,6 +36,7 @@ High-throughput data mining
 **Johns Hopkins University Bloomberg School of Public Health**       
 MHS in Epidemiology                _(Aug 2021- May 2023)_   
 * Honors: Masters Tuition Scholarship Award
+* Related courses: Methods in Biostatistics, Scalable Computational Bioinformatics. 
 
 **University of Florida**   
 Exchange student in Bioinformatics    _(Aug 2019- May 2020)_    
@@ -53,5 +57,5 @@ Bachelor  Horticultural Sciences      _(Sep 2016- Jun 2020)_
 ## 📒Languages   
 Chinese: Native.   
 English: Fluent.
-
+Cantonese: Understand and speak a little
 
