@@ -4,7 +4,7 @@
 
 ## 👩‍💻Research Experience  
 
-**Student data analyst (part-time)**  @Johns Hopkins Bloomberg School of Public Health _(Oct 2021-Present)_  
+**Student Data Analyst (part-time)**  @Johns Hopkins Bloomberg School of Public Health _(Oct 2021-Present)_  
 Key Populations Investment Fund (KPIF) at the Center of Public Health and Human Rights.  
 
 **Graduate Research Assistant II**   @Hong Kong University School of Public Health _(Feb 2021-Present)_    
