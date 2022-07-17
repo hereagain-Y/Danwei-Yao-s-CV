@@ -39,7 +39,7 @@ MHS in Epidemiology                _(Aug 2021- May 2023)_
 * Related courses: Methods in Biostatistics, Scalable Computational Bioinformatics. 
 
 **University of Florida**   
-Exchange student in Bioinformatics    _(Aug 2019- May 2020)_    
+Exchange student in Bioinformatics    _(Jan 2019- May 2020)_    
 * GPA: 3.9/4.0       
 * Related courses: Advanced Bioinformatics, Python for biology, SAS: Data analysis and statistical computing, R for Comparative Genomics.  
 
